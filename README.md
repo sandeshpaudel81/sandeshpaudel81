@@ -29,18 +29,22 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.facebook.com/sandesh.sandeep.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/facebook.svg" alt="sandesh.sandeep.3" height="30" width="40" /></a>
  <a href="https://www.instagram.com/sandespp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/instagram.svg" alt="sandespp" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/sandesh-paudel-601508149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/youtube.svg" alt="sandesh-paudel-601508149" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/sandesh-paudel-601508149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/linkedin.svg" alt="sandesh-paudel-601508149" height="30" width="40" /></a>
 </p>
 
 
-<h3 align="left">Languages and Tools that I have used:</h3>
+<h3 align="left">Languages and Frameworks I work on:</h3>
 
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/python.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/linux.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/git.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/c.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/cpp.svg" alt="cpp" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/python.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/django.svg" alt="django" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/react.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/linux.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/git.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/> </a>
+ <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/c.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/cpp.svg" alt="cpp" width="40" height="40"/> </a>
+ <a href="https://cpanel.net/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/cpanel.svg" alt="cpanel" width="40" height="40"/> </a>
 </p>
 
 
