@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshPaudel&theme=dark&locale=en" alt="sandeshpaudel81" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshpaudel81&theme=dark&locale=en" alt="sandeshpaudel81" />
 </p>
 
 <p alight="right">
-<img align="right" src="https://komarev.com/ghpvc/?username=SandeshPaudel&style=plastic&color=orange" />
+<img align="right" src="https://komarev.com/ghpvc/?username=sandeshpaudel81&style=plastic&color=orange" />
 </p>
