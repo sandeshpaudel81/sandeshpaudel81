@@ -17,9 +17,9 @@ Here are some ideas to get you started:
  
 <h1>Hello 👋, I'm Sandesh Paudel</h1>
 <p>
-  - 🔭 I’m currently working on Fullstack Web Development
-  - 🌱 I’m currently learning Django+React
-  - 📫 How to reach me: <a href="mailto:sandeshpaudel81@gmail.com">sandeshpaudel81@gmail.com</a>
+  - 🔭 I’m currently working on Fullstack Web Development<br>
+  - 🌱 I’m currently learning Django+React<br>
+  - 📫 How to reach me: <a href="mailto:sandeshpaudel81@gmail.com">sandeshpaudel81@gmail.com</a><br>
   - Discord: Sandesh#1857
 </p>
 
