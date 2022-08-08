@@ -39,6 +39,7 @@ Here are some ideas to get you started:
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/python.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/django.svg" alt="django" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/react.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/mysql.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/linux.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/git.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/> </a>
