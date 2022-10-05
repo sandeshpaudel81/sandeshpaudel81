@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/sandesh.sandeep.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/facebook.svg" alt="sandesh.sandeep.3" height="30" width="40" /></a>
- <a href="https://www.instagram.com/sandespp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BijanRegmi/BijanRegmi/main/instagram.svg" alt="sandespp" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sandesh.sandeep.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/facebook.svg" alt="sandesh.sandeep.3" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/sandespp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/instagram.svg" alt="sandespp" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/sandesh-paudel-601508149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/sandeshpaudel81/sandeshpaudel81/main/linkedin.svg" alt="sandesh-paudel-601508149" height="30" width="40" /></a>
 </p>
 
