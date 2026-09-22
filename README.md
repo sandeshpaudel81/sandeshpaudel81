@@ -17,10 +17,9 @@ Here are some ideas to get you started:
  
 <h1>Hello 👋, I'm Sandesh Paudel</h1>
 <p>
-  - 🔭 I’m currently working on data science tools.<br>
-  - 🌱 I’m currently learning EDA.<br>
+  - 🔭 I’m currently working on Healthcare + AI.<br>
+  - 🌱 I’m currently learning RAG.<br>
   - 📫 How to reach me: <a href="mailto:sandeshpaudel81@gmail.com">sandeshpaudel81@gmail.com</a><br>
-  - Discord: Sandesh#1857
 </p>
 
 
